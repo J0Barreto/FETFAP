@@ -1,0 +1,70 @@
+row {
+    height: 100vh;
+    width: 100vw;
+}
+
+.estudios-cuerpo {
+    display: flex;
+    flex-direction: column;
+    padding: 2em;
+}
+
+.estudios-cuerpo h2 {
+    font-size: 2.5em;
+}
+
+.button {
+    justify-content: right;
+}
+
+.container {
+    height: 70vh;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
+
+.container li {
+    list-style: none;
+}
+
+.cards {
+    float: left;
+}
+
+.card {
+    width: 300px;
+    align-content: center;
+    border: 0.1px grey solid;
+    height: auto;
+}
+
+.card_img {
+    width: 100%;
+    height: 150px;
+    background-image: url(../../../assets/img/estudios.jpg);
+    background-size: cover;
+}
+
+.card__titulo {
+    padding: 10px;
+    text-align: center;
+    background-color: #fff;
+    color: black;
+}
+
+.estudios__links {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: grey;
+}
+
+.estudios__links a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.estudios__links i {
+    font-size: 1em;
+    color:black;
+}
