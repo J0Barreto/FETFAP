@@ -1,0 +1,34 @@
+.header {
+    background-color: rgb(72, 72, 206);
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+}
+
+img {
+    width: 120px;
+    height: 70px;
+    color: #fff;
+}
+
+.social {
+    margin-top: 22px;
+    margin-left: 100px;
+}
+
+.social a {
+    font-size: 30px;
+    font-style: italic;
+    padding-left: 15px;
+    align-content: center;
+}
+.social i {
+    font-size: 1.6rem;
+    color: #fff;
+}
+
+.button {
+    padding-right: 20px;
+    margin-top: 15px;
+    color: black;
+}
