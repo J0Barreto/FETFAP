@@ -1,12 +1,12 @@
 row {
     height: 100vh;
-    width: 100vw;
+    width: 100%;
 }
 
 .estudios-cuerpo {
     display: flex;
     flex-direction: column;
-    padding: 2em;
+    padding: 25px;
 }
 
 .estudios-cuerpo h2 {
@@ -19,7 +19,7 @@ row {
 
 .container {
     height: 70vh;
-    margin: 0 auto;
+    margin: 15px auto;
     display: flex;
     justify-content: center;
 }
