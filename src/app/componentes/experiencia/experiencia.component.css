@@ -4,6 +4,11 @@
     background-color: #8ca9fa;
 }
 
+.superior{
+    display: flex;
+    flex-direction: row;
+}
+
 .experiencia-cuerpo {
     display: flex;
     flex-direction: column;
@@ -15,7 +20,8 @@
 }
 
 .button {
-    justify-content: right;
+    width: auto;
+    padding-top: 30px;
 }
 
 .container {

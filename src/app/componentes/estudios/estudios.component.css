@@ -3,6 +3,11 @@
     width: 100vw;
 }
 
+.superior{
+    display: flex;
+    flex-direction: row;
+}
+
 .estudios-cuerpo {
     display: flex;
     flex-direction: column;
@@ -13,8 +18,9 @@
     font-size: 2.5em;
 }
 
-.button {
-    justify-content: right;
+.button{
+    width: auto;
+    padding-top: 30px;
 }
 
 .container {
