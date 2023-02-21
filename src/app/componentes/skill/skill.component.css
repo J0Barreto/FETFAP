@@ -16,3 +16,7 @@
 .progreso p {
     text-align: center;
 }
+
+button{
+    float:right;
+}
